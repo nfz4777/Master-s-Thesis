@@ -2,6 +2,6 @@ Intrusion Detection systems: applying deep learning.
 
 Ms_Thesis: Master's Original Thesis
 
-IEEE_Tarnsactions_Paper: I am going to submit the paper to a good journal named " IEEE Transactions on Reliability" soon.
+IEEE_Tarnsactions_Paper: This was the initial draft. The final version is submitted to IEEE Transactions on Reliability.
 
 University's (CUA) Publication: https://www.proquest.com/docview/3054357180
